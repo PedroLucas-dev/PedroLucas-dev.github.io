@@ -42,6 +42,10 @@ body{
     gap: 100px;
     align-items: center;
 }
+h1 .nome{
+    background: #67dd0a;
+    color: #67dd0a;
+}
 
 .introducao h1{
     font-size: 4.5rem;
